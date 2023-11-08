@@ -11,7 +11,7 @@ Welcome to [the Git & GitHub](https://www.codedex.io/command-line) course repo! 
 
 ## Your First Repo
 
-- [introduction.sh](https://github.com/codedex-io/github-101/blob/main/1-your-first-repo/01-introduction.sh)
-- [repositories.sh](https://github.com/codedex-io/github-101/blob/main/1-your-first-repo/02-repositories.sh)
-- [git-workflow.sh](https://github.com/codedex-io/github-101/blob/main/1-your-first-repo/03-git-workflow.sh)
-- [local-push.sh](https://github.com/codedex-io/github-101/blob/main/1-your-first-repo/04-local-push.sh)
+- [`introduction.sh`](https://github.com/codedex-io/github-101/blob/main/1-your-first-repo/01-introduction.sh)
+- [`repositories.sh`](https://github.com/codedex-io/github-101/blob/main/1-your-first-repo/02-repositories.sh)
+- [`git-workflow.sh`](https://github.com/codedex-io/github-101/blob/main/1-your-first-repo/03-git-workflow.sh)
+- [`local-push.sh`](https://github.com/codedex-io/github-101/blob/main/1-your-first-repo/04-local-push.sh)
