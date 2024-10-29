@@ -1,3 +1,6 @@
+# Read Me 🗒
+# Codédex
+
 # Stage changes
 git add .
 
