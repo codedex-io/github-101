@@ -9,7 +9,7 @@ git checkout your-github-username/edit
 
 # Stage, commit, and push all changes to equivalent branch on remote repo
 git add .
-commit -m "message here"
+git commit -m "message here"
 git push -u origin your-github-username/edit
 
 # At this point, go to https://github.com/your-github-username/github-chapter-2-sandbox/tree/your-github-username/edit to open and merge a pull request
