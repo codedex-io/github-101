@@ -5,6 +5,7 @@
 
 pwd
 ls
+cd Desktop
 cd recipe-app
 
 # Run this:
