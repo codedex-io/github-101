@@ -1,6 +1,4 @@
 # Introduction 💻
 # Codédex
 
-pwd
-ls
-cd recipe-app
+git --version
