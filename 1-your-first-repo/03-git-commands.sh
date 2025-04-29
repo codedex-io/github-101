@@ -3,7 +3,7 @@
 
 # Make sure you're changed into your project folder first:
 cd Desktop
-cd rock-paper-scissors
+cd mini-game
 pwd
 
 # Run this:
