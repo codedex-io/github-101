@@ -3,7 +3,7 @@
 
 # Make sure you're changed into your project folder first:
 cd Desktop
-cd weather-app
+cd rock-paper-scissors
 pwd
 
 # Run this:
