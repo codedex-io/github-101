@@ -3,10 +3,9 @@
 
 # Make sure you're changed into your project folder first:
 
-pwd
-ls
 cd Desktop
 cd recipe-app
+pwd
 
 # Run this:
 
