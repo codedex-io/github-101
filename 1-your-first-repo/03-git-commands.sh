@@ -3,7 +3,7 @@
 
 # Make sure you're changed into your project folder first:
 cd Desktop
-cd mini-quiz
+cd terminal-game
 pwd
 
 # Run this:
