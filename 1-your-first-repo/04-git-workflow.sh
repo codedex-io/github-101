@@ -1,7 +1,11 @@
 # Git Workflow 🔄
 # Codédex
 
-git status # before staging
+# Before staging
+git status 
+
 git add .
-git commit -m "Initial Commit"
-git status # after staging
+git commit -m "Initial commit"
+
+# After staging
+git status
